@@ -5,8 +5,8 @@
 ```bash
 git clone git@github.com:your-user-name/{{name}}.git
 cd {{name}}
-make db/create
-make db/migrate
+coast db create
+coast db migrate
 ```
 
 ## Dev
